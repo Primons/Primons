@@ -5,7 +5,8 @@
 - 📫 How to reach me; mogesi_np on my Instagram handle
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: AI can detect pandemic
-Algorithms can diagnose patients
+- Algorithms can diagnose patients
+
 
 <!---
 Primons/Primons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
