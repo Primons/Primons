@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creating a digitised health sector
 - 📫 How to reach me; mogesi_np on my Instagram handle
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: AI can detect pandemic
+- ⚡ Fun fact: AI can detect pandemics
 - Algorithms can diagnose patients
 
 
